@@ -1,18 +1,3 @@
-/* * * * * * * * * * * * * * * * * * * * * * * * * */
-/*                                                 */
-/*              Assignment 1                       */
-/*                                                 */
-/*  Program:            myTunes                    */
-/*  Author:             Tarek Sanger               */
-/*  Student Number:     101059686                  */
-/*  Date:               2-Oct-2019                 */
-/*                                                 */
-/*  Course:             COMP2404                   */
-/*  Section:            B                          */
-/*  Prof.               Louis Nel                  */
-/*                                                 */
-/* * * * * * * * * * * * * * * * * * * * * * * * * */
-
 //App.cpp
 
 #include <iostream>
